@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#bookshelf {
+  background: url(images/bookshelf_bg.png);
+  width: 760px;
+  height: 570px;
+  padding-top: 90px;
+}
+
+.book {
+  height: 140px;
+  float: left;
+  margin: 0px 10px;
+}
+
+.book img {
+  height: 80px;
+}
+
+.book-review {
+  width: 200px;
+  background: #ffcc00;
+  border: #990000;
+  padding: 5px;
+}
